@@ -11,4 +11,3 @@ It is possible to use the library in two versions: Debug or Release.
 - C++17 (STL)
 - G++ 11.0
 - cmake_minimum_required(VERSION 3.11)
-
